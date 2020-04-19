@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Luke Smith's Homepage</title>
+<link rel='stylesheet' type='text/css' href='style.css'>
+<link rel='alternate' type='application/rss+xml' href='rss.xml' title='Latest from Luke'>
+<meta charset="utf-8"/>
+</head>
+
+<body>
+<h1><big>Luke Smith</big> <small>(https://lukesmith.xyz)</small></h1>
+<div id="links">
+
+<div id="cat">
+	videos:
+	<a href="https://youtube.com/c/lukesmithxyz"><img src="pix/icons/youtube.svg" alt="YouTube"></a>
+	<a href="https://www.bitchute.com/channel/lukesmith/"><img src="pix/icons/bitchute.svg" alt="BitChute"></a>
+	<a href="https://lbry.tv/@Luke:7"><img src="pix/icons/lbry.png"></a>
+</div>
+
+
+<div id="cat">
+	<a href="software.html">software:</a>
+	<a href="https://github.com/lukesmithxyz"><img src="pix/icons/octo.svg" alt="Github"></a>
+	<a href="https://gitlab.com/lukesmithxyz"><img src="pix/icons/gitlab.svg" alt="Gitlab"></a>
+	<a href="https://git.lukesmith.xyz"><img src="pix/icons/git.svg" alt="Git Server"></a>
+</div>
+
+<div id="cat">
+	other:
+	<a href="https://larbs.xyz"><img src="pix/larbs.png" alt="LARBS"></a>
+	<a href="https://notrelated.xyz"><img src="pix/notrelated.png" alt="Not Related!"></a>
+</div>
+
+<div id="cat">
+	<a href="donate.html">donate:</a>
+	<a href="donate.html#zelle"><img src="pix/icons/zelle.svg" alt="Zelle"></a>
+	<a href="https://paypal.me/lukemsmith"><img src="pix/icons/paypal.svg" alt="Paypal"></a>
+	<a href="donate.html#crypto"><img src="pix/icons/bitcoin.svg" alt="Bitcoin"></a>
+</div>
+</br>
+<div id="cat">
+	personal:
+	<a href="emailme.html">email</a>
+	<a href="blogindex.html">blog</a>
+	<a href="library.html">library</a>
+	<a href="rss.xml">rss</a>
+	<a href="files/">files</a>
+</div>
+
+</div>
+
+<h2 style="margin:0px">Welcome!</h2>
+<img style="float:right;margin:10px" src="pix/lukenew.gif" alt="Luke">
+
+<p>My name is Luke Smith, I'm known for being:</p>
+
+<ul>
+	<li>Someone who puts up videos on <a href="https://youtube.com/c/lukesmithxyz">my YouTube channel</a>.
+	</li>
+	<li>The Luke of <a href="https://larbs.xyz">Luke's Auto-Rice Bootstrapping Scripts (LARBS)</a>.
+	<li>I have done a podcast: <a href="https://notrelated.xyz"><em>Not Related!</em></a> on Big-Braned topics. It's still literally the best podcast.</li>
+	<li>A Ph.D. candidate in linguistics at the University of Arizona.</li>
+</ul>
+
+<h3><img src="pix/icons/blog.svg" alt="Blog"> Recent blog posts</h3>
+
+<p><a href="blog.html">Rolling Blog Page</a> &ndash; <a href="blogindex.html">Full browsable blog index</a></p>
+<ul>
+<!--BLOG--><li>2020 Apr 02 &ndash; <a href="blog/lincucks-fest-has-been-canceled.html">Lincucks Fest has been canceled!</a></li><li>2020 Mar 22 &ndash; <a href="blog/font-gone-crazy-in-larbs.html">Font gone crazy in LARBS?</a></li><li>2020 Mar 16 &ndash; <a href="blog/what-should-be-the-default-browser-for-larbs.html">What should be the default browser for LARBS?</a></li><li>2020 Mar 15 &ndash; <a href="blog/ill-be-at-linuxfest-southeast-june-1214-in-charlotte-nc.html">I'll be at Linuxfest Southeast June 12-14 in Charlotte, NC</a></li><li>2020 Feb 01 &ndash; <a href="blog/big-fix-for-the-stsuckless-crashonemoji-error.html">Big fix for the st/suckless 'Crash-On-Emoji' error</a></li>
+</ul>
+
+<h3>Misc</h3>
+<ul>
+	<li>The <a href="programs.html">Programs and Equipment</a> I use.</li>
+	<li>Automatically configured and setup email on the terminal with <a href="https://github.com/lukesmithxyz/mutt-wizard">mutt-wizard</a>.</li>
+	<li>So you want to learn <a href="latex.html">LaTeX</a>?</li>
+	<li>My <a href="https://github.com/lukesmithxyz/voidrice">dotfiles/config files</a>, which many people use and like.</li>
+</ul>
+
+<h3>Updates/RSS urls</h3>
+
+<p>Copy and paste these urls into your RSS reader (e.g. <a href="https://www.youtube.com/watch?v=dUFCRqs822w">newsboat</a>) for all my RSS feeds. The first is my main feed and blog, second is my YouTube videos, the third is my podcast:</p>
+
+<pre><code>https://lukesmith.xyz/rss.xml
+https://lukesmith.xyz/youtube.xml
+https://notrelated.xyz/rss
+</code></pre>
+
+<div style="clear: both;">&nbsp;</div>
+
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick" />
+	<input type="hidden" name="hosted_button_id" value="WNXQ4BYQ87QNJ" />
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+	<img src="pix/icons/bat.svg" style="height:2em"> Note that <a href="https://brave.com/luk005">Brave users</a> can also donate BAT to me on any of my websites or my YouTube channel.
+	</br>
+	</br>
+	<big><a href="emailme.html">Email me</a> at <a href="mailto:luke@lukesmith.xyz">luke@lukesmith.xyz</a>!</big>
+
+</center>
+
+
+</body>
+
+</html>
