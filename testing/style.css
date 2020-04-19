@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+h1{
+    color: wheat;
+    background-color: darkslategray;
+    font-size: 40px;
+    font-family: fantasy ;
+    text-align: center;
+}
+p{
+    align-self: auto;
+    color: wheat;
+}
+label{
+    color: chocolate ;
+}
+input{
+    border-color: wheat;
+    background-color: darkred;
+}
+select{
+    background-color: darkred;
+    border-color: wheat;
+}
+textarea{
+    background-color: maroon;
+}
